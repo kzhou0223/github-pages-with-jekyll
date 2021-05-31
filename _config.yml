@@ -2,7 +2,6 @@ title: AP Computer Science A Website
 author: Kaiwen Zhou
 email: kzhou@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
-  Epic Description
 
 # social links
 github_username:  kzhou0223 # DO NOT include the @ character, or else the build will fail!
