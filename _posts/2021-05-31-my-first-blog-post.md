@@ -11,4 +11,4 @@ Picture: ![image](https://github.com/kzhou0223/github-pages-with-jekyll/blob/mai
 
 Social Media information : Instagram.   _kaiwen.zhou
 
-Brag Sheet: Central Jersey state orchestra, Plat 1 In Valorant, I swim with Carney and Allen Liu, I love noobdood121
+Brag Sheet: Central Jersey state orchestra, Plat 1 In Valorant, and I swim on the high school team
