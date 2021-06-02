@@ -7,7 +7,7 @@ picture:
 
 Name:  Kaiwen Zhou
 
-Picture:
+Picture: ![image](https://github.com/kzhou0223/github-pages-with-jekyll/blob/main/kzhou%20image.jpg?raw=true)
 
 Social Media information : Instagram.   _kaiwen.zhou
 
